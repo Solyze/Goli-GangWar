@@ -1,0 +1,17 @@
+server-list:
+  motd: '&c&lWIP &6&lGANG&e&lWAR'
+  max-players: 2023
+prefix: '&8▎ &6&lGang&e&lWar &8▏ '
+join-motd:
+  - ''
+  - '[CENTER]&7&m-*-------------------------------------------*-'
+  - ''
+  - '[CENTER]&f&lWelcome to &3&lGO&b&lLI&f&lCRAFT &6&lGANG&e&lWAR'
+  - '[CENTER]&c☃ &7&oWelcome to the GangWar tournament. &c☃'
+  - ''
+  - '       &7Information goes here, &b@EvenX'
+  - ''
+  - '         &f➥ &7Main Discord: &fdiscord.golicraft.net'
+  - ''
+  - '[CENTER]&7&m-*-------------------------------------------*-'
+  - ''

@@ -1,0 +1,21 @@
+red:
+  world: 'Void'
+  x: -25.5
+  y: 66.5
+  z: -114.5
+  yaw: 0.0
+  pitch: 0.0
+blue:
+  world: 'Void'
+  x: -25.5
+  y: 66.5
+  z: -46.5
+  yaw: 0.0
+  pitch: 0.0
+main:
+  world: 'Void'
+  x: -72.5
+  y: 72.5
+  z: -80.5
+  yaw: 0.0
+  pitch: 0.0

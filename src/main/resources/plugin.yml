@@ -1,0 +1,20 @@
+name: Goli-GangWar
+version: '${project.version}'
+main: io.github.solyze.goligangwar.GoliGangWar
+prefix: Goli-GangWar
+authors: [ Solyze ]
+description: GoliCraft's GangWar Tournament Plugin
+website: https://solyze.github.io/
+softdepend:
+  - PlaceholderAPI
+commands:
+  gang:
+    aliases:
+      - g
+  gangwar:
+    aliases:
+      - gw
+  prediction:
+    aliases:
+      - pred
+      - predictions
