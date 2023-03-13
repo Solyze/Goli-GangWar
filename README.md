@@ -5,5 +5,5 @@ Here's a video showcasing a tiny bit of the tournament:<br>
 https://www.youtube.com/watch?v=gYvAelHLboc<br>
 
 If you'd like to expand on this plugin or use it somewhere, I'd appreciate you contacting me beforehand or at least crediting me.<br>
-Discord: Solyze#3343<br>
-E-Mail: zsebbenog@gmail.com<br>
+<li> Discord: Solyze#3343<br>
+<li> E-Mail: zsebbenog@gmail.com<br>
